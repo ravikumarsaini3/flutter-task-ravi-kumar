@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+import 'package:task/components/app_color.dart';
+
+class CustomButton extends StatelessWidget {
+  final String text;
+  final bool isDark;
+  final VoidCallback onPressed;
+
+  const CustomButton({
+    super.key,
+    required this.text,
+    required this.onPressed,
+    this.isDark = false,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final width = MediaQuery.of(context).size.width;
+    final height = MediaQuery.of(context).size.height;
+
+    return SizedBox(
+      width: width * 0.9,
+      height: height * 0.06,
+      child: ElevatedButton(
+        style: ElevatedButton.styleFrom(
+          backgroundColor: isDark ? AppColor.darkBlue : Colors.white,
+          foregroundColor: Colors.white,
+
+          shape: RoundedRectangleBorder(
+            side: BorderSide(color:isDark ? AppColor.darkBlue : AppColor.lightBlue),
+            borderRadius: BorderRadius.circular(12),
+          ),
+          elevation: 3,
+          textStyle: const TextStyle(fontSize: 14, fontWeight: FontWeight.w600),
+        ),
+        onPressed: onPressed,
+        child: Text(
+          text,
+          style: TextStyle(color: isDark ? Colors.white : AppColor.lightBlue),
+        ),
+      ),
+    );
+  }
+}
