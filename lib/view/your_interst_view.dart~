@@ -97,7 +97,7 @@ class _InterstViewState extends State<InterstView> {
                   style: TextStyle(fontSize: 13),
                 ),
                 SizedBox(height: height * 0.02),
-                SizedBox(
+                Container(
                   height: height * 0.06,
                   child: TextField(
                     decoration: InputDecoration(
