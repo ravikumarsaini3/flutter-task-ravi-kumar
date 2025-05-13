@@ -5,8 +5,7 @@ Welcome to my solution for the Catalift Developer Task! This repository contains
 ---
 ## 📹 Demo Video
 
-Watch the demo video:  
-https://github.com/user-attachments/assets/aae57f29-7193-418c-abfb-31097e9aeee1
+https://github.com/user-attachments/assets/b58b869c-1359-4fa1-ada8-04121a560c43
 
 
 ## 🎯 Task Objective
