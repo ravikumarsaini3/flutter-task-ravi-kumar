@@ -1,16 +1,67 @@
-# task
-[video]([https://github.com/ravikumarsaini3/flutter-task-ravi-kumar/blob/ravi_kumar_saini/video.mp4)](https://github.com/ravikumarsaini3/flutter-task-ravi-kumar/blob/ravi_kumar_saini/assets/video/video.mp4)
-A new Flutter project.
+# Catalift Developer Task Submission
 
-## Getting Started
+Welcome to my solution for the Catalift Developer Task! This repository contains my implementation of the mobile app screen replication based on the design files provided by Catalift.
 
-This project is a starting point for a Flutter application.
+---
+## 📹 Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+Watch the demo video:  
+[Click here to view the demo video](https://1drv.ms/v/c/f4a83767df1d494b/EUeoJeabI9FHiv4LNEVtPbEB5pa2XDmj8X4c7SARtkqVbA?e=pcjaST)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Task Objective
+
+The goal of this task was to **replicate a mobile app screen** based on the design assets shared by Catalift, which will demonstrate my development skills, code structure, and UI implementation capabilities.
+
+---
+
+## 📬 Design Assets
+
+The design assets (PNG/SVG files) were shared via email and were used as references for building the screen. I have followed the design guidelines closely to ensure accuracy and a responsive layout.
+
+---
+
+## ✅ What I Did
+
+1. **Forked the repository** and created a new branch for this task.
+2. Built the screen using **Flutter**.
+3. Maintained a **clean and modular code structure** for easier readability and future improvements.
+4. Implemented the screen with responsiveness in mind, ensuring compatibility across various screen sizes.
+5. **Commit and pushed** my code to the forked repository.
+6. Submitted the link to my **public fork** for review.
+
+---
+
+## 🛠️ Tech Stack Used
+
+- **Flutter** for building the UI and handling mobile app functionality.
+- **Dart** as the programming language.
+- Utilized Flutter widgets for building components, ensuring reusability and modularity.
+
+---
+
+## 💡 Evaluation Criteria
+
+- **Code Organization:** Clean, well-structured code that follows best practices.
+- **Design Accuracy:** Ensured the mobile app screen is an exact replica of the design.
+- **Responsiveness:** Implemented the screen in a way that it looks good on different screen sizes and orientations.
+- **Use of Components:** Sensible use of components, widgets, and naming conventions for clarity and reusability.
+
+---
+
+## ⚠️ Notes
+
+- This repository is **public** for review.
+- Task was completed within **7 days** as per the submission guidelines.
+
+---
+
+## 📩 Need Help?
+
+If you have any questions or face any issues while reviewing my work, feel free to reach out to me at:  
+**ravik392320@gmail.com**
+
+---
+
+
+Thank you for the opportunity to participate in the Catalift Developer Task. I look forward to your feedback!
